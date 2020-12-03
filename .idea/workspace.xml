@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe137a85-bdd9-4380-81bb-2a202a35a712" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/exercises/palindrome/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/palindrome/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/reversestring/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/reversestring/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/maxchar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/maxchar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/reverseint/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/reverseint/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,25 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1607032312" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1l7LEjhHpvSGqlRhXNBVmMS7OeW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,6 +49,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.10" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,6 +63,7 @@
       <workItem from="1606943078591" duration="3943000" />
       <workItem from="1606978046592" duration="267000" />
       <workItem from="1606978741250" duration="77000" />
+      <workItem from="1607032257759" duration="1901000" />
     </task>
     <servers />
   </component>
